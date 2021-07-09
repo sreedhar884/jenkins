@@ -28,3 +28,7 @@ systemctl stop jenkins
 systemctl start jenkins
 
 ip a
+
+sudo apt-get install maven
+
+mvn --version
